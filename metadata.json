@@ -1,0 +1,6 @@
+{
+  "name": "Dua Fatima",
+  "description": "Dua Fatima — Personal Autonomous AI Agent with live Urdu/Hindi/English voice conversation, Android screen control, app automation, workflows, and crimson dark/light UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

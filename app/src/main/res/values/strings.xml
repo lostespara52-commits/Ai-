@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dua Fatima</string>
+    <string name="accessibility_service_description">Dua Fatima Autonomous Screen Engine: Reads on-screen elements, locates buttons and text fields, types prompts, taps controls, and executes multi-step Android app workflows when directed by you.</string>
+    <string name="persistent_service_channel_name">Dua Fatima Autonomous Session</string>
+    <string name="persistent_service_title">Dua Fatima AI Active</string>
+    <string name="persistent_service_subtitle">Listening &amp; ready • Tap to open or power off</string>
+    <string name="power_off_action">POWER OFF</string>
+    <string name="state_listening">LISTENING</string>
+    <string name="state_thinking">THINKING</string>
+    <string name="state_speaking">SPEAKING</string>
+    <string name="state_working">WORKING</string>
+    <string name="state_offline">OFFLINE</string>
+    <string name="state_error">ALERT</string>
+    <string name="state_idle">READY</string>
+    <string name="input_placeholder">Ask me anything...</string>
+</resources>
